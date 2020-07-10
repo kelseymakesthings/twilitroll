@@ -2,8 +2,8 @@
 Send funny texts to your friends.
 
 ## How to start:
-1. Clone this project with `git clone https://github.com/kelseymakesthings/twiliotroll.git`
-2. `cd twiliotroll`
+1. Clone this project with `git clone https://github.com/kelseymakesthings/twilitroll.git`
+2. `cd twilitroll`
 
 ## To send a single message:
 (Full instructions [here](https://www.twilio.com/docs/sms/quickstart/python)):
