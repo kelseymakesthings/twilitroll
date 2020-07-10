@@ -6,12 +6,11 @@ Send funny texts to your friends.
 2. `cd twilitroll`
 
 ## To send a single message:
-(Full instructions [here](https://www.twilio.com/docs/sms/quickstart/python)):
+(Full instructions including installations [here](https://www.twilio.com/docs/sms/quickstart/python)):
 1. Fill in placeholder values on `send_single_message.py`
 2. `python send_single_message.py`
 
-
-# To receive and reply to messages:
+## To receive and reply to messages:
 (Full instructions [here](https://www.twilio.com/docs/sms/tutorials/how-to-receive-and-reply-python))
 1. Fill in placeholder values on `app.py`
 2. `python app.py`
